@@ -1,10 +1,10 @@
-Fernando Bino Machado
-
-      Brasileiro, residente no Brasil, Pontal do Paraná - PR.
-      E-mail: programemachado@gmail.com ou fernando.bino.machado@gmail.com
-
-Objetivo (Trabalho Remoto)
-    • T.I Tecnologia da Informação, Desenvolvimento de Software nível Sênior com vistas a evolução de carreira.
+<h1><center>Fernando Bino Machado</center></h1>
+<br>
+      <center>Brasileiro, residente no Brasil, Pontal do Paraná - PR.
+      E-mail: programemachado@gmail.com ou fernando.bino.machado@gmail.com</center>
+<br>
+<h2>Objetivo (Trabalho Remoto)</h2><br>
+    • T.I Tecnologia da Informação, Desenvolvimento de Software nível Sênior com vistas a evolução de carreira.<br>
       
 Formação, Habilidades e Skills (Experiência desenvolvida desde 2013)
     • Análise e Desenvolvimento de Sistemas;

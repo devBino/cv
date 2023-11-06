@@ -1,6 +1,6 @@
 <h1><center>Fernando Bino Machado</center></h1>
 <br>
-      <center>Brasileiro, residente no Brasil, Pontal do Paraná - PR.<br>
+      <center>Brasileiro, residente no Brasil<br>
       E-mail: programemachado@gmail.com ou fernando.bino.machado@gmail.com</center>
 <br>
 <h2>Objetivo (Trabalho Remoto)</h2><br>

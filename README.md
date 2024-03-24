@@ -7,6 +7,7 @@
     • T.I Tecnologia da Informação, Desenvolvimento de Software nível Sênior com vistas a evolução de carreira.<br>
       
 <h2>Formação, Habilidades e Skills (Experiência desenvolvida desde 2013)</h2><br>
+    • Pós Graduando em Ciência de Dados;<br>
     • Análise e Desenvolvimento de Sistemas;<br>
     • Inglês Intermediário;<br>
     • Versionamento com Git e Gitflow<br>

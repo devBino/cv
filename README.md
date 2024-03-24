@@ -41,4 +41,4 @@
     •  GitHub: https://github.com/devBino?tab=repositories<br>
     •  Linkedin: https://www.linkedin.com/in/fernando-bino-machado-6a8870177/<br>
       
-      Atualizado em 06/11/2023.
+      Atualizado em 24/03/2024.

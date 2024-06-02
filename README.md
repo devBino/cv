@@ -39,6 +39,6 @@
     • NTT DATA Business Solutions – Brasil – Ocupação Atual. Atuação para contribuir na evolução de produto de alcance nacional, no contexto de NFSe para integrar grandes clientes no Brasil aos órgãos fiscais, tais como Riachuello, Cacau Show e Celesc. Suporte a integrantes de projeto de escopo aberto, ensino, repasses e suporte técnico, revisões de código, buscando entrega de valor com aplicação do framework Scrum e metodologias Ágeis. Constante diálogo com Qas, análises de problemas descobertos em cenários de testes. Análises e solução de problemas em produção.<br>
 <br>
     •  GitHub: https://github.com/devBino?tab=repositories<br>
-    •  Linkedin: https://www.linkedin.com/in/fernando-bino-machado-6a8870177/<br>
+    •  Linkedin: https://www.linkedin.com/in/fernando-bino-machado/<br>
       
       Atualizado em 24/03/2024.
